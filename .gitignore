@@ -58156,33 +58156,3 @@ lerna-debug.log*
 out/
 .idea_modules/
 
-# Sublime Text
-*.sublime-workspace
-*.sublime-project
-
-# Vim
-*.swp
-*.swo
-*~
-.vim/
-
-# Emacs
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
-
-# Atom
-.atom/
-
-# NetBeans
-nbproject/private/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-
